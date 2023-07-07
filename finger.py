@@ -9,7 +9,7 @@ tipIds = [4, 8, 12, 16, 20]
 state = None
 Gesture = None
 wCam, hCam = 720, 640
-
+{}
 def fingerPosition(image, handNo=0):
     lmList = []
     if results.multi_hand_landmarks:
