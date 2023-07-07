@@ -45,7 +45,7 @@ let config = {
 				calendars: [
 					{
 						url: 'ICAL API',
-						symbol: 'calendar',
+						symbol: 'calendar', lkjhgfds
 						auth: {
 							user: 'GMAIL USER',
 							pass: 'GMAIL PW',
@@ -54,7 +54,7 @@ let config = {
 					},
 				],
 			}
-		},
+		,
 		{
 			module: "weather",
 			position:"top_right",
